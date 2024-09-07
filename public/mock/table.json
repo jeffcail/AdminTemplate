@@ -1,0 +1,41 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "name": "波野结衣",
+            "money": 123,
+            "address": "日本",
+            "state": true,
+            "date": "2019-11-1",
+            "thumb": "url_address"
+        },
+        {
+            "id": 2,
+            "name": "苍井空",
+            "money": 456,
+            "address": "日本",
+            "state": true,
+            "date": "2019-10-11",
+            "thumb": "url_address"
+        },
+        {
+            "id": 3,
+            "name": "小泽玛利亚",
+            "money": 789,
+            "address": "日本",
+            "state": false,
+            "date": "2019-11-11",
+            "thumb": "url_addressss"
+        },
+        {
+            "id": 4,
+            "name": "深田泳美",
+            "money": 1011,
+            "address": "日本",
+            "state": true,
+            "date": "2019-10-20",
+            "thumb": "url_address"
+        }
+    ],
+    "pageTotal": 4
+}
