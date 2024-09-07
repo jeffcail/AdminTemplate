@@ -10,8 +10,11 @@
 Vue3 + typescript + pinia + Element Plus 后台通用管理系统模版。[线上演示](http://admin-template.caixiaoxin.cn)
 
 ## 感谢您的支持🙏
-您的支持是我最大的动力.
-![微信扫一扫](./wx.jpg)
+祝施舍的老板财源滚滚～您的支持是我最大的动力.
+
+<img src="wx.jpg" width="150" height="150" alt="微信扫一扫">
+
+感谢您动动手指点个star🌟
 
 ## 安装步骤
 ```
