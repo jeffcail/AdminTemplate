@@ -1,9 +1,9 @@
 # admin-template
 
-<a href="https://github.com/jeffcail/admin-template/releases">
+<a href="https://github.com/mazezen/admin-template/releases">
     <img src="https://img.shields.io/github/release/admin-template/releases.svg" alt="GitHub release">
   </a>
-   <a href="https://github.com/jeffcail/admin-template/blob/master/LICENSE">
+   <a href="https://github.com/mazezen/admin-template/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
   </a>
 
@@ -18,7 +18,7 @@ Vue3 + typescript + pinia + Element Plus 后台通用管理系统模版。[线�
 
 ## 安装步骤
 ```
-git clone https://github.com/jeffcail/admin-template
+git clone https://github.com/mazezen/admin-template
 cd admin-template
 
 npm install
